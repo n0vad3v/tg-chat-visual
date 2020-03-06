@@ -2,6 +2,10 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+> “I would rather spend one lifetime with you, than face all the ages of this world alone.“
+> 
+>  J.R.R. Tolkien
+
 ## Prerequisite
 
 ```
